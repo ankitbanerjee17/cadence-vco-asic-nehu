@@ -183,13 +183,13 @@ Components used:
 
 ## Initial Schematic
 
-![Cadence Schematic 1](cadence_schematic_1.jpg)
+![Cadence Schematic 1](images/cadence_schematic_1.jpg)
 
 ---
 
 ## Ring Oscillator Schematic
 
-![Cadence Schematic 2](cadence_schematic_2.jpg)
+![Cadence Schematic 2](images/cadence_schematic_2.jpg)
 
 ---
 
